@@ -1,4 +1,4 @@
-# Simple Reddit Clone
+# Simple Reddit clone
 
 This project is a simplified version of Reddit, featuring subreddit timelines, user subscriptions, post submissions, upvotes, comments, and user profiles.
 
