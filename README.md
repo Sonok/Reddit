@@ -128,7 +128,7 @@ This project is a simplified version of Reddit, featuring subreddit timelines, u
 
 **Problem:** High traffic on popular subreddits can cause delays in loading the timeline due to the large volume of posts.
 
-**Solution:** Implement caching strategies for frequently accessed subreddits and use pagination to load posts incrementally.
+**Solution:** Implement caching strategies for frequently accessed subreddits and use pagination (also known as paging) to load posts incrementally.
 
 ### Security
 
