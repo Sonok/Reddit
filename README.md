@@ -134,8 +134,8 @@ This project is a simplified version of Reddit, featuring subreddit timelines, u
 
 **Problem:** Unauthorized access to user data and actions (e.g., upvoting, commenting) due to inadequate authentication and authorization checks.
 
-**Solution:** Implement robust authentication (e.g., OAuth) and authorization mechanisms to ensure users can only perform actions they are permitted to and can only access their own data.
+**Solution:** Implement robust authentication (e.g., OAuth or FireBase) and authorization mechanisms to ensure users can only perform actions they are permitted to and can only access their own data.
 
-**Problem:** Unauthorized access to user data and actions (e.g., upvoting, commenting) due to inadequate authentication and authorization checks.
+**Problem:** Unauthorized access to user data and actions (e.g., upvoting, commenting, unauthorized login) due to inadequate authentication and authorization checks.
 
-**Solution:** Implement robust authentication (e.g., OAuth) and authorization mechanisms to ensure users can only perform actions they are permitted to and can only access their own data.
+**Solution:** Implement robust authentication (e.g., OAuth or FireBase) and authorization mechanisms to ensure users can only perform actions they are permitted to and can only access their own data.
